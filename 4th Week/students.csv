@@ -1,0 +1,5 @@
+Name,Age,Gender,Score,Passed
+Alice,23,Female,85,True
+Bob,25,Male,78,False
+Charlie,22,Male,90,True
+Diana,24,Female,92,True
